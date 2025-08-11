@@ -1,0 +1,6 @@
+{
+    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "github.copilot.inlineSuggest.enabled": false,
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "editor.inlineSuggest.enabled": false
+}
